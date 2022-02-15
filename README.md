@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![image](https://user-images.githubusercontent.com/32235595/143158125-a8588f10-1172-4acb-bd1e-41a37500fb52.png)
-![c5qojmppgy071](https://user-images.githubusercontent.com/32235595/152517948-a88e3115-3941-414a-a19c-21055249bffb.png)

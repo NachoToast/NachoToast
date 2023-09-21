@@ -17,24 +17,24 @@ Here are some ideas to get you started:
 
 <img src="eyes.png" width="100%" />
 
-<img src="colours_go_brrr.gif" width="50%" />
+<img src="colours_go_brrr.gif" width="49%" />
 
-<img src="cyberpunk_2078.gif" width="50%" />
+<img src="cyberpunk_2078.gif" width="49%" />
 
-<img src="moving_shape_thing.gif" width="50%" />
+<img src="moving_shape_thing.gif" width="49%" />
 
-<img src="shapes.gif" width="50%" />
+<img src="shapes.gif" width="49%" />
 
-<img src="https://user-images.githubusercontent.com/32235595/207449555-a8a57e06-ce75-451c-b658-777658c0d93f.png" width="50%" />
+<img src="https://user-images.githubusercontent.com/32235595/207449555-a8a57e06-ce75-451c-b658-777658c0d93f.png" width="49%" />
 
-<img src="Spotify_Quiz_Demo.gif" width="50%" />
+<img src="Spotify_Quiz_Demo.gif" width="49%" />
 
-<img src="test_vis.gif" width="50%"  />
+<img src="test_vis.gif" width="49%"  />
 
-<img src="https://github.com/NachoToast/SimpleCustomGasFramework/raw/main/Source/Media/Expand.gif" width="50%"  /> 
+<img src="https://github.com/NachoToast/SimpleCustomGasFramework/raw/main/Source/Media/Expand.gif" width="49%"  /> 
 
-<img src="https://user-images.githubusercontent.com/32235595/143158125-a8588f10-1172-4acb-bd1e-41a37500fb52.png" width="50%" />
+<img src="https://user-images.githubusercontent.com/32235595/143158125-a8588f10-1172-4acb-bd1e-41a37500fb52.png" width="49%" />
 
-<img src="caches.gif" width="50%" />
+<img src="caches.gif" width="49%" />
 
 </div>

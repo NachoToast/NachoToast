@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 
 <img src="eyes.png" width="100%" />
 
+<div style="display: flex;">
+
 <img src="shapes.gif" width="49%; float: left" />
 
 <img src="caches.gif" width="49%; float: right" />
+
+</div>
+
 
 <img src="test_vis.gif" width="49%"  />
 

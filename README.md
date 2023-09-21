@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <img src="test_vis.gif" width="50%"  />
 
-<img src="https://github.com/NachoToast/SimpleCustomGasFramework/raw/main/Source/Media/Expand.gif" width="50%"  /> 
+<img src="https://github.com/NachoToast/SimpleCustomGasFramework/raw/main/Source/Media/Expand.gif" width="49%"  /> 
 
 <img src="https://user-images.githubusercontent.com/32235595/143158125-a8588f10-1172-4acb-bd1e-41a37500fb52.png" width="100%" />
 

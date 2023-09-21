@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img src="shapes.gif" width="50%" />
 
-<img src="caches.gif" width="50%" />
+<img src="caches.gif" width="49%" />
 
 <img src="test_vis.gif" width="50%"  />
 
